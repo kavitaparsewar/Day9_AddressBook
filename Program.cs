@@ -23,11 +23,17 @@ namespace Day9_AddressBook
             //#endregion UC3
 
 
-            //region UC4
+            //#region UC4
             //UC4_delete.createnew();
             //UC4_delete.Contacts();
             //UC4_delete.deletePerson();
-            //endregion UC4
+            //#endregion UC4
+
+            //#region UC5
+            UC5_add_multiple.NewContact();
+            UC5_add_multiple.ListPeople();
+            UC5_add_multiple.AddNew();
+             //#endregion UC5
 
         }
     }
